@@ -3,9 +3,9 @@
 <p><em>Software Enginner at <a href="https://salemuniversity.edu.ng/">SALEM/SALEM University Nigeria</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.firm.com.ng">Firm Knowledge</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<a href="https://www.facebook.com/don.nicholas.969"><img src="fbook.webp" height="40" width="40"></a>
+<a href="https://www.facebook.com/don.nicholas.969"><img src="fbook.webp" height="40" width="40" align="left"></a>
 
-<a href="linkedin.com/in/nicholas-adole-19943915b"><img src="fbook.webp" height="40" width="40"></a>
+<a href="linkedin.com/in/nicholas-adole-19943915b"><img src="ink.jpg" height="40" width="40" align="right"></a>
 
 
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
