@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/nicholas-adole-19943915b/"><img src="ink.jpg" height="40" width="40"></a>
 
 
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/AdoleaNicholasDebugger)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
