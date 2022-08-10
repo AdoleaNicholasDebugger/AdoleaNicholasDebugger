@@ -3,7 +3,7 @@
 <p><em>Software Enginner at <a href="https://salemuniversity.edu.ng/">SALEM/SALEM University Nigeria</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.firm.com.ng">Firm Knowledge</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<a href="adolenicholas@yahoo.com"><img src="fbook.webp" height="40" width="40"></a>
+<a href="https://www.facebook.com/don.nicholas.969"><img src="fbook.webp" height="40" width="40"></a>
 
 [![Facebook: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
