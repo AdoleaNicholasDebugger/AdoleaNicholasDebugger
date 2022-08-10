@@ -16,8 +16,8 @@
 ```javascript
 const nick = {
   pronouns: "he" | "he",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java],
-  tools: [React js, Redux, React Native, Vanilla PHP, LARAVEL, WordPress, .Net],
+  code: [Vanilla PHP, Javascript, Typescript, HTML, CSS, Python, Java, .Net],
+  tools: [React js, Redux, React Native, LARAVEL, WordPress],
   architecture: ["microservices", "event-driven", "design system pattern"],
   
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
