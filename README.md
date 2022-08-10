@@ -5,7 +5,7 @@
 
 <a href="https://www.facebook.com/don.nicholas.969"><img src="fbook.webp" height="40" width="40" align="left"></a>
 
-<a href="linkedin.com/in/nicholas-adole-19943915b"><img src="ink.jpg" height="40" width="40"></a>
+<a href="https://www.linkedin.com/in/nicholas-adole-19943915b/"><img src="ink.jpg" height="40" width="40"></a>
 
 
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
